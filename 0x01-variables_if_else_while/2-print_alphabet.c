@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 /**
  * main - Entry Point
@@ -11,7 +12,7 @@ int main(void)
 {
 	int ch = 'a';
 
-	while (ch <= '2')
+	while (ch <= 'z')
 	{
 		putchar(ch);
 		ch++;
