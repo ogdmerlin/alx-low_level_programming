@@ -3,7 +3,7 @@
 /**
  * main - Entry Point
  *
- * return: Always 0 (Success)
+ * return: 0 if no error, non zero error.
  *
  */
 
