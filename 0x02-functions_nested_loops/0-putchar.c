@@ -1,9 +1,12 @@
 #include "main.h"
 
 /**
- * man - Entry point
+ * * man - Entry point
+ *
  * Description: prints '_putchar\n'
+ *
  * Return: Always 0 (Success)
+ *
  */
 
 int main(void)
