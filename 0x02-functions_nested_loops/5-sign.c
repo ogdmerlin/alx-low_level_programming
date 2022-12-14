@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 
 /**
  * print_sign - Entr point
@@ -9,7 +9,7 @@
 
 int print_sign(int n)
 {
-if ( n > 0)
+if (n > 0)
 {
 _putchar('+');
 return  (1);
