@@ -1,11 +1,12 @@
 #include "main.h"
+#include <studio.h>
 
 /**
- * print_to_98 - Print all natural numbers from n to 98
+ * print_to_98 - print all natural numbers from n to 98
  * @n: int type number
  */
 
-void print_to_98(int nn)
+void print_to_98(int n)
 {
 	if (n > 98)
 	{
@@ -14,7 +15,7 @@ void print_to_98(int nn)
 			printf("%d", n);
 			if (n != 98)
 			{
-				printf("'");
+				printf(",");
 			}
 			n--;
 		}
