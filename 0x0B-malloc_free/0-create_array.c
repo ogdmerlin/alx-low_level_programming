@@ -1,5 +1,6 @@
-#include "main.h"
 #include <stdio.h>
+#include "main.h"
+#include <stdlib.h>
 
 /**
  * create _array - array for prints a string
