@@ -1,4 +1,4 @@
-#include "Main.h"
+#include "main.h"
 
 /**
  * create _array - array for prints a string
